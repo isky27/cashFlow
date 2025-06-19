@@ -1,8 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/cash_flow_backend_node_modules
-/cash_flow_frontend_node_modules
+**/node_modules/
 /.pnp
 .pnp.js
 
